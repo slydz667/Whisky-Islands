@@ -1,0 +1,66 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+<head>
+<meta http-equiv="content-type"
+content="text/html; charset=utf-8" />
+
+<title>Whisky Island</title>
+<style>
+
+body {
+color: #eceff1;
+background-color:white;
+background-image:url(xx.jpg);
+background-position:center center;
+background-attachment:fixed;
+}
+
+a {
+text-decoration:none;
+ }
+</style>
+</head>
+<body>
+
+
+<center><font size="7px"><a href="./Premiere%20page.html"style="color:#2E9AFE;">Acceuil</a> &emsp; &emsp; &emsp;
+<a href="./deuxiemme%20page.html"style="color:#2E9AFE;">Etapes de Fabrication</a> &emsp; &emsp; &emsp;
+<a href="./Trosieme%20page.html"style="color:#2E9AFE;">Magasin</a> &emsp; &emsp; &emsp;
+<a href="./Quatrième%20page.html"style="color:#2E9AFE;">Avis</a> &emsp; &emsp; &emsp;
+<a href="./Cinquième%20page.html"style="color:#2E9AFE;">Nous contacter</a></font></p></center><br>
+
+	<h1><font size="9px"><center>Bienvenue à la maison !</center></font></h1>
+	<h2><font size="7px">Présentation du Whisky</font></h2>
+	
+	<br><h3><font size="6px">Qu'est ce que le Whisky?</font></h3>
+	<p><font size="6px"> Whisky ou whiskey est le nom générique d'un ensemble d'eaux-de-vie 
+	fabriquées par distillation de céréales maltées ou non maltées. L'origine 
+	du whisky est encore aujourd'hui sujette à controverses entre Écossais et 
+	Irlandais, chacun y allant de sa preuve la plus ancienne. Par la suite, le 
+	whisky a été exporté vers le Nouveau Monde (notamment aux États-Unis et au 
+	Canada). Depuis le début du XXe siècle, des distilleries se sont développées 
+	au Japon, puis dans le reste du monde plus récemment.
+	
+	<br><h3><font size="6px">Comment choisir son Whisky?</font></h3>
+	<p><font size="6px">De nos jours, l’amateur est en recherche permanente de nouvelles sensations. Très éclectique dans ses goûts,
+	il aime avoir dans son bar un large éventail de whiskies d’origines différentes. Les professionnels du secteur ne s’y sont d’ailleurs
+	pas trompés. Ils proposent de plus en plus souvent des mises en bouteilles spécifiques (fûts uniques, whiskies non filtrés à froid,
+	whiskies brut de fût, affinages particuliers, etc.) destinées à satisfaire l’appétit de découverte sans cesse croissant de tous ces passionnés.
+	Toutefois le nouvel amateur a tendance à se méfier des excès du marketing. Au-delà de la variété et de l’originalité, il privilégie, 
+	avant tout, la qualité. Le nouvel amateur n’est pas simplement le dernier maillon d’une chaîne n’ayant pas droit au chapitre.
+	Par son comportement et son approche objective de la dégustation, il est devenu un acteur essentiel du monde du whisky à qui les 
+	distillateurs et les embouteilleurs indépendants font les yeux doux. Il contribue ainsi à l’évolution qualitative des whiskies.
+	</font></p>
+	
+	<h3><font size="6px">Comment déguster son Whisky?</font></h3>
+	<p><font size="6px">La nouvelle génération d’amateurs fait preuve d’une maturité de palais étonnante. 
+	Toujours en quête d’absolu et forte de ses connaissances, son approche de la dégustation revêt un caractère
+	quasi-analytique. Le moment de dégustation, tout en restant convivial (le whisky se déguste de plus en plus 
+	souvent entre amis), est prétexte à débat et échange d’idées. Déguster un whisky constitue un voyage aromatique 
+	et gustatif ainsi qu’une invitation au commentaire et à la métaphore. Le langage de la dégustation s’est, par 
+	voie de conséquence, adapté à cette évolution. Au fil du temps, un cérémonial de la dégustation s’est également 
+	mis en place. Rien n’est laissé au hasard. La température, le lieu, le verre de dégustation, sont autant d’éléments
+	primordiaux qui concourent au bien-être du dégustateur.
+	</font></p>
+</div>
+</body>
+</html>
